@@ -26,9 +26,11 @@ The software used to analyse the data and answer the queries are:
 To manage the project I have been using Kanban Project Board
 
 01. **Data Cleaning**
+
 The first step of this project was cleaning the 3 dataset and saving them as new files before starting to analyse and built our recommendation system.
 
 02. **Exploring the data**
+
 Exploring data set
 
 
@@ -39,9 +41,21 @@ Exploring data set
 - Collaborative Filtering Using k-Nearest Neighbors
 
 04. **Tableau - Presenting the analysis**
-Creation of a dashboard to represent the information
-   Queries exploring the data through Tableau
 
+Creation of a dashboard to represent the information
+Queries exploring the data through Tableau
+
+
+**Conclusion:**
+
+For this project I tried to use different approch for the book recommendation. As we can see depending on the one we choose recommended books are not the same, and the complexity of the system is different.
+Now I have a better understanding of what youtube , netflix ... are recommended me and why.
+
+
+Over all, I felt like this was a good choice for a  project. The problem was interesting to me and also advanced enough to challenge me to learn more about data cleaning, how to deal with a data set  and machine learning algorithms used in recommendation engines. 
+
+The datasets involved some preparation and cleaning, and more time could have been spent on it. For exemple on cleanning country and potentially states as USA is where most users are from . Also it would have been great to add a columnn for categories of books to make the recommendation more specific.
+This project allowed me to improve my Python skills and learned how to use several packages that were new to me .
 
 
 # Main libraries used on the project  :
