@@ -17,13 +17,13 @@ As a book lover, I have always wondered where I can find good book recommendatio
 
 
 
-The software used to analyse the data and answer the queries are:
+The software used for this project:
  - Jupyter notebook
  - Tableau 
 
-
-
 To manage the project I have been using Kanban Project Board
+
+
 
 01. **Data Cleaning**
 
@@ -46,7 +46,8 @@ Creation of a dashboard to represent the information
 Queries exploring the data through Tableau
 
 
-**Conclusion:**
+
+# Conclusion:
 
 For this project I tried to use different approch for the book recommendation. As we can see depending on the one we choose recommended books are not the same, and the complexity of the system is different.
 Now I have a better understanding of what youtube , netflix ... are recommended me and why.
